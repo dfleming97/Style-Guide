@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+    background-color: #e0ffff;
+}
+
+.sub {
+    background-color: #fff;
+}
+
+h3.roboto, h3.abril {
+    background-color: #e0ffff;
+    text-decoration: underline;
+}
+
+#fonts , #colors, #text-style {
+    border: 1px solid blue;
+    height: 50%;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.font-section {
+    text-align: center;
+    word-spacing: 1.2;
+}
+
+.abril {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.abril-bold {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bold;
+}
+
+.abril-italic {
+    font-family: 'Abril Fatface', cursive;
+    font-style: italic;
+} 
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto-bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.roboto-italic {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
+.red {
+    background-color: rgb(255, 0, 0);
+    border: 1px solid red;
+    display: inline-block;
+    padding: 100px;
+    ;
+}
+
+.turquoise {
+    background-color: rgb(64,244,208);
+    border: 1px solid turquoise;
+    display: inline-block;
+    padding: 100px;
+}
+
+.neon {
+    background-color: rgb(57,255,20);
+    border: 1px solid rgb(57,255,20);
+    display: inline-block;
+    padding: 100px;
+}
+
+.mustard {
+    background-color: rgb(255,219,88);
+    border: 1px solid rgb(255,219,88);
+    display: inline-block;
+    padding: 100px;
+}
+
+#text-style h1, #text-style h2, #text-style p {
+    text-decoration: underline;
+}
+
+li {
+    display: block;
+}
